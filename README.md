@@ -62,6 +62,4 @@ Approximately $80-100/month for moderate usage.
 terraform destroy
 ```
 
-## License
 
-MIT
